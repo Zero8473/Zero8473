@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zero8473
 - 👀 I’m interested in anime, sports, music and technology
-- 🌱 I’m currently a web developer in training
+- 🌱 I’m a web developer working with the e-commerce system OXID eshop and have previously worked with TYPO3
 - 📫 How to reach me: You can reach me via email at zero8473.holo@gmail.com
 
 <!---
