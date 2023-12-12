@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zero8473
 - 👀 I’m interested in anime, sports, music and technology
-- 🌱 I’m a web developer working with the e-commerce system OXID eshop and have previously worked with TYPO3 CMS
+- 🌱 I’m a web developer and have previously worked with TYPO3 CMS and dabbled in the e-commerce system OXID eshop
 - 📫 How to reach me: You can reach me via email at michllisa.dev@gmail.com
 
 <!---
